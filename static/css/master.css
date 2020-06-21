@@ -1,11 +1,16 @@
-body {
-  background-color: #a8dadc;
+html,body {
+  height:100%;
+  background-color: #5CDB95;
 }
 
-#logonavDLR {
-  width: 70px;
+#profilpic {
+  border-radius: 50%;
+  width: 350px;
+  height: 350px;
+  border: solid 6px;
+  border-color:#5CDB95;
 }
 
-.navbar {
-  font-size: 18px;
+#container-image{
+  padding-top: 100px;
 }
